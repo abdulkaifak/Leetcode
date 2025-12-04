@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1801-average-time-of-process-per-machine](https://github.com/abdulkaifak/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1827-invalid-tweets](https://github.com/abdulkaifak/Leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/abdulkaifak/Leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abdulkaifak/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/abdulkaifak/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
