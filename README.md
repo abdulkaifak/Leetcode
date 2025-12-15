@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulkaifak/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/abdulkaifak/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/abdulkaifak/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -33,4 +34,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/abdulkaifak/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/abdulkaifak/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Hash Table
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/abdulkaifak/Leetcode/tree/master/1512-number-of-good-pairs) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/abdulkaifak/Leetcode/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
